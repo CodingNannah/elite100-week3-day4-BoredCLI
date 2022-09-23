@@ -10,13 +10,13 @@ The player will choose a virtual amount to spend, and the program returns a rand
 - clone this repository in that directory
 
     ```
-#    git clone https://github.com/CrtlAltElite/Poke_CLI
+    git clone https://github.com/CodingNannah/elite100-week3-day4-BoredCLI.git
     ```
 
 - Navigate into the folder you just created with the clone:
 
     ```
-#    cd Poke_CLI 
+    cd BoredCLI 
     ```
 
 - after this completes enter to create a virtual environment on Windows/Linux:
